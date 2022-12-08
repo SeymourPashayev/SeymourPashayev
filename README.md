@@ -8,8 +8,9 @@ Among my interests are Computer Science, Photography and Work with Images, Sound
 
 - I’m interested in Physics Solvers, Fluid Solverl (SPH), Audio Visualizers, Shaders, Cybersecurity, Audio influencing Video programmatically.
 - I’m currently learning a lot of Cybersecurity and Fluid Dynamics in Computation.
-- I’m looking to collaborate on honestly anything as long as we have patience for each other's stupidity.
-- Email at gordonsamh@gmail.com
+
+I’m looking to collaborate on honestly anything as long as we have patience for each other's stupidity.
+Email at gordonsamh@gmail.com
 
 <!---
 SeymourPashayev/SeymourPashayev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
