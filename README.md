@@ -6,8 +6,8 @@ I think computer science is an art. I think I am a <strong>computer science arti
 
 Among my interests are Computer Science, Photography and Work with Images, Sound Design and Music Production. I develop software and do cybersecurity research professionally.
 
-- I’m interested in Audio Visualizers, Shaders, Cybersecurity, Audio influencing Video programmatically.
-- I’m currently learning a lot of Cybersecurity and Website Maintenance. I have not had much luck with shaders and visualizers though.
+- I’m interested in Physics Solvers, Fluid Solverl (SPH), Audio Visualizers, Shaders, Cybersecurity, Audio influencing Video programmatically.
+- I’m currently learning a lot of Cybersecurity and Fluid Dynamics in Computation.
 - I’m looking to collaborate on honestly anything as long as we have patience for each other's stupidity.
 - Email at gordonsamh@gmail.com
 
